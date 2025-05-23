@@ -1,0 +1,6 @@
+@LPRStoresAPI_HostAddress = http://localhost:5261
+
+GET {{LPRStoresAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
